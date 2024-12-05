@@ -5,3 +5,4 @@
 ## Library & tools for developers.
 
 1. [aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers.
+2. [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes and fixes code for you.
