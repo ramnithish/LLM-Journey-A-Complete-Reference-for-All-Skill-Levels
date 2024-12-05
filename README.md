@@ -4,4 +4,4 @@
 
 Library & tools for developers.
 
-1. [aisuite](https://github.com/andrewyng/aisuite)
+1. [aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers.
