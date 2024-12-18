@@ -8,3 +8,4 @@
 2. [micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes and fixes code for you.
 3. [Parler-TTS 🗣️](https://huggingface.co/spaces/ai4bharat/indic-parler-tts) - ParlerTTS is a training and inference library for high-quality text-to-speech (TTS) models.
 4. [Colpali llama vision rag](https://github.com/kturung/colpali-llama-vision-rag) -A powerful Retrieval-Augmented Generation (RAG) system combining Colpali's ColQwen image embeddings with LLaMA Vision via Ollama.
+5. [annotateai](https://github.com/neuml/annotateai) --annotateai automatically annotates papers using Large Language Models (LLMs). While LLMs can summarize papers, search papers and build generative text about papers, this project focuses on providing human readers with context as they read.
