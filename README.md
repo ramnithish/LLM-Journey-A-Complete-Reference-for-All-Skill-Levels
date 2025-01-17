@@ -9,3 +9,4 @@
 3. [Parler-TTS 🗣️](https://huggingface.co/spaces/ai4bharat/indic-parler-tts) - ParlerTTS is a training and inference library for high-quality text-to-speech (TTS) models.
 4. [Colpali llama vision rag](https://github.com/kturung/colpali-llama-vision-rag) -A powerful Retrieval-Augmented Generation (RAG) system combining Colpali's ColQwen image embeddings with LLaMA Vision via Ollama.
 5. [annotateai](https://github.com/neuml/annotateai) --annotateai automatically annotates papers using Large Language Models (LLMs). While LLMs can summarize papers, search papers and build generative text about papers, this project focuses on providing human readers with context as they read.
+6. [Agentarium](https://github.com/Thytu/Agentarium) -- A powerful Python framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.
