@@ -15,3 +15,4 @@
 ## Other Resources.
 
 1. [GenAI Agents: Comprehensive Repository for Development and Implementation](https://github.com/NirDiamant/GenAI_Agents?tab=readme-ov-file)
+2. [A curated list of modern Generative Artificial Intelligence projects and services.](https://github.com/steven2358/awesome-generative-ai?utm_source=www.aiminds.com&utm_medium=newsletter&utm_campaign=deepseek-r1-causes-big-tech-to-panic-karpathy-s-deep-learning-insights-and-vision-language-ai-vlms&_bhlid=4351efaf3365f0d0256d9993d78a856a9cee9086)
